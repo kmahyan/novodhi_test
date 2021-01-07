@@ -1,2 +1,2 @@
 # novodhi_test
-Novodhi UI
+Novodhi UI - Angular Project
